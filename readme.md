@@ -28,3 +28,17 @@ This extension surely works on Chrome and Microsoft Edge. It may work on other b
 - Select the **extensions** folder ( which you just downloaded )
 - Or you can just drag and drop the folder in the `edge://extensions/` tab
 - Done _bruh_
+
+## Versions and updates
+### Version 1.0
+This is just the first version, so I just _made_ it.
+#### Works
+- Popup (Dumb)
+- Redirecting
+
+[Download Version 1.0](https://github.com/ayush-alam/no-rickrolls)
+### Version 2.0
+This is the second version
+- Redirecting in dark mode
+
+[Download Version 2.0](https://github.com/ayush-alam/no-rickrolls-2)
